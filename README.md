@@ -1,5 +1,10 @@
 # individual_project
 
+conda env create -f ex.yaml
+  오류시 확인사항
+    conda update -n base conda
+
+
 git clone '연동할 git링크 ex)https://github.com/golisn/individual_project.git'
 
 연동하여 생긴 폴더로 진입
